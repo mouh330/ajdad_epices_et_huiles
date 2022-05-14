@@ -1,0 +1,51 @@
+
+.img {
+  width:1290px;
+  height :300px ;
+  border-color:#000000;
+  margin-right: 20px;
+} 
+
+.titre1 {
+  color: red;
+  text-align:center;
+  font-size:60px ;
+  margin-right: 20px;
+}
+
+.titre2 {
+  color:#00ff00;
+  text-align:right;
+  font-size: 45px ;
+  margin-right: 20px;
+
+}
+.titre4 {
+  color:#001aff;
+  text-align:right;
+  font-size: 30px ;
+   margin-right: 20px;
+
+}
+
+.a {
+   text-align:right ;
+   font-size: 30px ;
+    margin-right: 20px;
+
+}
+
+.colore {
+  background:#000000 ;
+ margin-right: 20px;
+
+}
+ 
+p  {
+  font-size: 30px ;
+  text-align: right;
+  color: blanchedalmond;
+ margin-right: 20px;
+
+}
+

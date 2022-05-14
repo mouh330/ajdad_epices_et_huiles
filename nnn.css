@@ -1,0 +1,158 @@
+.paragraphefronce {
+  text-align: left;
+  font-size: 50px;
+  color:#9EA1A8;
+}
+.titre2 {
+  font-size: 60px;
+  color:#11D9C8;
+}
+.titre{
+  color:red;
+  text-align: center;
+    font-size: 40px;
+}
+.titre1{
+  text-align: right;
+  color:#11D9C8;
+  font-size: 30px;
+}
+
+.titre12{
+  text-align: right;
+  color:#1ff9a9b8;
+  font-size: 20px;
+}
+
+.titre122{
+  text-align: right;
+  color:#1002a0;
+  font-size: 20px;
+}
+
+.titre1222{
+  text-align: right;
+  color:#abcdef;
+  font-size: 20px;
+}
+.paragraphearab {
+  width: 95%;
+  color:#9EA1A8;
+  text-align: right;
+  font-size: 70px;
+
+}
+.paragraphearabe {
+  width: 95%;
+  color:#9EA1A8;
+  text-align: right;
+  font-size: 20px;
+
+}
+
+.img {
+border-color:#D8E8CA ; 
+width: 250px;
+height: 200px;
+}
+
+
+.imgd {
+border-color:#11D9C8 ; 
+width: 250px;
+height: 200px;
+text-align: right;
+}
+
+
+.ing {
+
+  width:1290px;
+  height :300px ;
+  border-color:#D8E8CA;
+
+}
+.page{
+text-align: right;
+font-size: 60px;
+color:#ff00a0;
+}
+#paage{
+text-align: right;
+font-size: 40px;
+}
+.imge{
+width:1290px;
+height :550px ;
+border-color:#11D9C8;
+}
+.pag{
+text-align: right;
+  font-size: 60px;
+  color:#ff00a0;
+
+}
+.imgo{
+
+border-color:#0000Af ;
+   width: 25px;
+   height: 20px;
+
+
+}
+.mama{
+text-align: right;
+font-size: 25px;
+}
+
+
+.color{
+background-color:#000000;
+}
+
+
+
+.imogi{
+ width:200px;
+  height :150px ;
+border-color:#ffffff ;
+display: block;
+margin-left: auto;
+}
+
+.imogii{
+ width:50px;
+  height :50px ;
+border-color:#ffffff ;
+display: block;
+/*margin-left: auto;*/
+}
+.iop{
+ width:25PX;
+  height :25PX ;
+border-color:#ffffff ;
+display: block;
+margin-left: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
